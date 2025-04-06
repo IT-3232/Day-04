@@ -1,4 +1,4 @@
-package lk.ac.vau.fas.model;
+package lk.ac.vau.fas.ict.model;
 
 public class Course {
 	  private int CourseId;
